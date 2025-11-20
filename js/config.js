@@ -1,11 +1,13 @@
 window.scriptData = [
   {
     id: "fishit_script",
-    title: "iHkazHUB [Fish It]",
+    title: "MZZHUB [Grow A Garden]",
     url: "https://raw.githubusercontent.com/ihkaz/iHkazHUB/refs/heads/main/Loader.lua",
-    description: "Script Tools for Playing Fish IT",
+    description: "Script Spawner, Auto For Grow A Garden",
     category: "Helper",
-    tags: ["helper", "fishit", "roblox"],
-    image: "https://raw.githubusercontent.com/ihkaz/iHkazHUB/main/Proyek%20Baru%20105%20%5B22D8881%5D.png"
+    tags: ["helper", "gag", "roblox", "spawner"],
+    image: "https://tr.rbxcdn.com/180DAY-91f8ec73480a974786806c66d92dd30e/768/432/Image/Webp/noFilter
+      
+    "
   }
 ];
