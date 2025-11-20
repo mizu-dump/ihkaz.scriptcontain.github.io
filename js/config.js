@@ -22,7 +22,7 @@ window.scriptData = [
   {
     id: "99_script",
     title: "MZZHUB [99 Nights In The Forest]",
-    url: "https://pastebin.com/raw/6p5TTn3e", // change to yours
+    url: "https://pastebin.com/raw/6p5TTn3e",
     description: "Script Mob ESP, Auto Farm Days, Diamonds, Bring For 99 Nights In The Forest",
     category: "Survival",
     tags: ["forest", "night", "survival", "esp"],
