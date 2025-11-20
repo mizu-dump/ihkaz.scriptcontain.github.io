@@ -2,7 +2,7 @@ window.scriptData = [
   {
     id: "fishit_script",
     title: "MZZHUB [Grow A Garden]",
-    url: "https://raw.githubusercontent.com/mizu-dump/MizuHub/refs/heads/main/loader.lua",
+    url: "https://raw.githubusercontent.com/mizu-dump/MizuHub/refs/heads/main/Loader.lua",
     description: "Script Spawner, Auto For Grow A Garden",
     category: "Helper",
     tags: ["helper", "gag", "roblox", "spawner"],
