@@ -1,7 +1,7 @@
 window.scriptData = [
   {
     id: "gag_script",
-    title: "MZZHUB [Grow A Garden]",
+    title: "MZZHUB [GAG]",
     url: "https://raw.githubusercontent.com/mizu-dump/DumpScript/refs/heads/main/loadser.lua",
     description: "Script Spawner, Auto For Grow A Garden",
     category: "Spawner",
@@ -11,7 +11,7 @@ window.scriptData = [
 
   {
     id: "sab_script",
-    title: "MZZHUB [Steal A Brainrot]",
+    title: "MZZHUB [SAB]",
     url: "https://raw.githubusercontent.com/mizu-dump/DumpScript/refs/heads/main/loadser.lua",
     description: "Script Brainrot Sniper, ESP, Desync For Steal A Brainrot",
     category: "Helper",
@@ -21,7 +21,7 @@ window.scriptData = [
 
   {
     id: "99_script",
-    title: "MZZHUB [99 Nights In The Forest]",
+    title: "MZZHUB [99NITF]",
     url: "https://raw.githubusercontent.com/mizu-dump/DumpScript/refs/heads/main/loadser.lua",
     description: "Script Mob ESP, Auto Farm Days, Diamonds, Bring For 99 Nights In The Forest",
     category: "Survival",
@@ -31,8 +31,8 @@ window.scriptData = [
 
   {
     id: "pvb_script",
-    title: "MZZHUB [Plants Vs Brainrots]",
-    url: "https://pastebin.com/raw/6p5TTn3e",
+    title: "MZZHUB [PVB]",
+    url: "https://raw.githubusercontent.com/mizu-dump/DumpScript/refs/heads/main/loadser.lua",
     description: "Script Spawner For Plants Vs Brainrots",
     category: "Spawner",
     tags: ["pvb", "plants", "brainrot", "spawner"],
@@ -41,7 +41,7 @@ window.scriptData = [
 
   {
     id: "slap_script",
-    title: "MZZHUB [Slap Tower]",
+    title: "MZZHUB [SLPTWR]",
     url: "https://raw.githubusercontent.com/mizu-dump/DumpScript/refs/heads/main/loadser.lua",
     description: "Script Auto Slap, Anti Void, Slap Aura, Unlock Gamepass For Slap Tower",
     category: "Combat",
